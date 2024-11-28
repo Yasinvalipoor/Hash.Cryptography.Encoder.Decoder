@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Hash.Cryptography\bin\Debug\net8.0\Hash.Cryptography.exe
+C:\Users\user\Desktop\Hash.Cryptography\bin\Debug\net8.0\Hash.Cryptography.deps.json
+C:\Users\user\Desktop\Hash.Cryptography\bin\Debug\net8.0\Hash.Cryptography.runtimeconfig.json
+C:\Users\user\Desktop\Hash.Cryptography\bin\Debug\net8.0\Hash.Cryptography.dll
+C:\Users\user\Desktop\Hash.Cryptography\bin\Debug\net8.0\Hash.Cryptography.pdb
+C:\Users\user\Desktop\Hash.Cryptography\obj\Debug\net8.0\Hash.Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Hash.Cryptography\obj\Debug\net8.0\Hash.Cryptography.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Hash.Cryptography\obj\Debug\net8.0\Hash.Cryptography.AssemblyInfo.cs
+C:\Users\user\Desktop\Hash.Cryptography\obj\Debug\net8.0\Hash.Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hash.Cryptography\obj\Debug\net8.0\Hash.Cryptography.dll
+C:\Users\user\Desktop\Hash.Cryptography\obj\Debug\net8.0\refint\Hash.Cryptography.dll
+C:\Users\user\Desktop\Hash.Cryptography\obj\Debug\net8.0\Hash.Cryptography.pdb
+C:\Users\user\Desktop\Hash.Cryptography\obj\Debug\net8.0\Hash.Cryptography.genruntimeconfig.cache
+C:\Users\user\Desktop\Hash.Cryptography\obj\Debug\net8.0\ref\Hash.Cryptography.dll
+C:\Users\user\Desktop\Hash.Cryptography\obj\Debug\net8.0\Hash.Cryptography.sourcelink.json
