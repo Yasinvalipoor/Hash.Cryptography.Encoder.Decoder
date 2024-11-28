@@ -43,7 +43,3 @@ Console.WriteLine($"Decode Text : {decodeMessage_2}");
 
 
 Console.ReadLine();
-
-//    }
-//    return count;
-//}
